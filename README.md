@@ -1,5 +1,6 @@
-# java-practice
-Java programs and practice problems
+# Java Practice
+
+Java programs and practice problems.
 
 ## Topics Covered
 
@@ -10,10 +11,18 @@ Java programs and practice problems
 
 ## Programs Added
 
+### Basics
 - Factorial
-- Largest Element in Array
-- Sum Of Array
-- Palindrome String
 - Prime Number
 - Fibonacci Series
-- Student Class (OOP)
+
+### Arrays
+- Largest Element in Array
+- Sum Of Array
+
+### Strings
+- Palindrome String
+
+### OOP
+- Student Class
+- Inheritance Demo
