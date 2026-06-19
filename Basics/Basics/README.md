@@ -17,3 +17,6 @@ This folder contains beginner-friendly Java programs used to learn core programm
 ### Strings
 - PalindromeString.java - Checks whether a string is a palindrome.
 
+### OOP
+- Student.java - Demonstrates classes, objects, and constructors.
+- InheritanceDemo.java - Demonstrates inheritance in Java.
