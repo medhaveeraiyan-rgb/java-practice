@@ -57,6 +57,7 @@ java-practice/
 ### Exception Handling
 
 * Try-Catch Demo
+* FinallyDemo
 
 ## Purpose
 
